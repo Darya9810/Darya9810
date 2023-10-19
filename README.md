@@ -2,13 +2,13 @@
 <h3 align="center">Я инженер по тестированию программного обеспечения </ h3>
 <h4>Вот, что я умею:</h4>
 <ul>
- <li>Ручное тестирование веб-приложений, <a href="https://github.com/Darya9810/DaryaMyraveva/blob/main/HomeworkIntroductiontoTesting.md">проекты по курсу</a>;</li>
- <li>Java для тестировщиков, <a href="https://github.com/Darya9810/DaryaMyraveva/blob/main/JavaTesterHomework.md">проекты по курсу</a>;</li>
- <li>Автоматизированное тестирование (Тестирование API, Selenium, Selenide, Docker, Docker-compose, SQL, Репортинг), <a href="https://github.com/Darya9810/DaryaMyraveva/blob/main/HomeworkAutomatedTesting.md">проекты по курсу</a>;</li>
+ <li>Ручное тестирование веб-приложений, <a href="https://github.com/Darya9810/Darya9810/blob/main/HomeworkIntroductiontoTesting.md">проекты по курсу</a>;</li>
+ <li>Java для тестировщиков, <a href="https://github.com/Darya9810/Darya9810/blob/main/JavaTesterHomework.md">проекты по курсу</a>;</li>
+ <li>Автоматизированное тестирование (Тестирование API, Selenium, Selenide, Docker, Docker-compose, SQL, Репортинг), <a href="https://github.com/Darya9810/Darya9810/blob/main/HomeworkAutomatedTesting.md">проекты по курсу</a>;</li>
  <li>JavaScript для тестировщиков, <a href="https://github.com/Darya9810/bjs-2-homeworks.git">проекты по курсу</a>;</li>
- <li>Автоматизация тестирования веб-интерфейсов с использованием Node.js, Jest, Playwright, Puppeeter, Cypress, <a href="https://github.com/Darya9810/DaryaMyraveva/blob/main/HomeworkTestingOfWebInterfaces.md">проекты по курсу</a>;</li>
- <li>Мануальное тестирование мобильных приложений и автоматизация тестирования мобильных приложений (UIAutomator, Appium, Espresso), <a href="https://github.com/Darya9810/DaryaMyraveva/blob/main/MobileAppTestingCourse.md">проекты по курсам</a>;</li>
- <li>Тестирование производительности, <a href="https://github.com/Darya9810/DaryaMyraveva/blob/main/PerformanceTestingCourse.md">проекты по курсу</a>;</li>
+ <li>Автоматизация тестирования веб-интерфейсов с использованием Node.js, Jest, Playwright, Puppeeter, Cypress, <a href="https://github.com/Darya9810/Darya9810/blob/main/HomeworkTestingOfWebInterfaces.md">проекты по курсу</a>;</li>
+ <li>Мануальное тестирование мобильных приложений и автоматизация тестирования мобильных приложений (UIAutomator, Appium, Espresso), <a href="https://github.com/Darya9810/Darya9810/blob/main/MobileAppTestingCourse.md">проекты по курсам</a>;</li>
+ <li>Тестирование производительности, <a href="https://github.com/Darya9810/Darya9810/blob/main/PerformanceTestingCourse.md">проекты по курсу</a>;</li>
  <li>Дипломный проект профессии Инженер по тестированию, <a href="https://github.com/Darya9810/Diplom.git">проведение ручного тестирования и автоматизация тестирования мобильного приложения «Мобильный хоспис»</a></li>
 </ul>
 <h3>Сертификаты Нетологии:</h3>
