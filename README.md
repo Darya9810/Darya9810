@@ -23,6 +23,7 @@
  <li><a href="https://drive.google.com/file/d/1bhxK2tICKzawaGGNZGnSPOUu8ISrs1R0/view?usp=sharing">Тестирование производительности</a>;</li>
  <li><a href="https://drive.google.com/file/d/1clMFoYsdOFYTNlyr70CFbRR24gwTmq_8/view?usp=sharing">Тестирование безопасности</a>;</li>
  <li><a href="https://docs.google.com/document/d/1XIqRrF_vcLcJHGb0QNojr-zuMiAIwPsv/edit?usp=sharing&ouid=106571176334050516861&rtpof=true&sd=true">Свидетельство о прохождении обучения</a></li>
+ <li><a href="[https://docs.google.com/document/d/1XIqRrF_vcLcJHGb0QNojr-zuMiAIwPsv/edit?usp=sharing&ouid=106571176334050516861&rtpof=true&sd=true](https://drive.google.com/file/d/1HGimtE3Vcq30likj1CtQGmbBUMH8P57U/view?usp=drivesdk)">Свидетельство о прохождении практики</a></li>
 </ul> 
 
 <!--
