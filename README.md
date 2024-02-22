@@ -28,7 +28,7 @@
  <li><a href="https://drive.google.com/file/d/1HGimtE3Vcq30likj1CtQGmbBUMH8P57U/view?usp=sharing">Свидетельство о прохождении практики</a></li>
 
   <h3>Сертификаты Астрал-Софт:</h3>
-   <li><a href="[https://drive.google.com/file/d/1HGimtE3Vcq30likj1CtQGmbBUMH8P57U/view?usp=sharing](https://docs.google.com/document/d/1SXsJbEpZF0RKL4ZLoQQiwDQQpW5wA8zV/edit?usp=sharing&ouid=106571176334050516861&rtpof=true&sd=true)">Базовый курс по Астрал Отчет 4.5</a></li>
+   <li><a href="https://drive.google.com/file/d/1HGimtE3Vcq30likj1CtQGmbBUMH8P57U/view?usp=sharing">Базовый курс по Астрал Отчет 4.5</a></li>
  </ul> 
 <!--
 **Darya9810/Darya9810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
